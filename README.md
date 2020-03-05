@@ -1,6 +1,6 @@
-#Dice Roller
+# Dice Roller
 
-First App in the course "Developing Android apps with Kotlin" from Udacity
+### First App in the course "Developing Android apps with Kotlin" from Udacity
 Thing learned doing this app:
 - Starting a Android with Kotlin project
 - lateInit
